@@ -1,10 +1,10 @@
-# Prework - *Change Background Color*
+# Prework - *Happy Colors*
 
 Submitted by: **Shalom Mhanda**
 
-**iOSCodePath** is an app that changes the background color to a random color each time the change color button is clicked. 
+**Happy Colors** is an app that changes the background color to a random color each time the change color button is clicked. 
 
-Time spent: **4** hours spent in total
+Time spent: **4.5** hours spent in total
 
 ## Required Features
 
@@ -44,7 +44,7 @@ I faced challenges opening the storyboard file. Following the provided GIF helpe
 
 ## License
 
-    Copyright [2023] [Shalom Mhanda]
+    Copyright 2023 Shalom Mhanda
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
