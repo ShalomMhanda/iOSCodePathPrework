@@ -1,4 +1,4 @@
-# Prework - *Name of App Here*
+# Prework - *Change Background Color*
 
 Submitted by: **Shalom Mhanda**
 
@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<img src='walkthrough2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />.
+<img src='iOSCodePath/iOSCodePath/walkthrough2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />.
 
 ## App Brainstorming (Step 4)
 
